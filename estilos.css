@@ -57,16 +57,16 @@ p{
   padding: 20px;
 }
 .title-1{
-  background-color: pink;
+  background-color: #d59898fa;
 }
 
 .title-2{
-  background-color: red;
+  background-color: #c14543fb;
   color: white;
 }
 
 .title-3{
-  background-color: yellow;
+  background-color: #e5d098e3;
 }
 
 /* Simple Responsive Framework. */
